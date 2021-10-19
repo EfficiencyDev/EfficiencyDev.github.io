@@ -1,2 +1,2 @@
 # EfficiencyDev.github.io
-RoaR Privacy and Term website
+RoaR Privacy and Terms website
